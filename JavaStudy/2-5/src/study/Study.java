@@ -30,7 +30,7 @@ public class Study {
     	shohinList.put(3, SHOP_SHOHIN_03);
 
 
-
+    	
 
 
         // ② 以下の「shopMap.put(shohinList.get(1), 180);」の処理について、コメントを記述してください。
