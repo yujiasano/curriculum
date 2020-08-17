@@ -20,12 +20,9 @@ header {
 	display: inline-block;
 }
 
-p {
-	font-weight: bold;
-}
 
 table {
-	padding-top:20px;
+	padding-top:50px;
 	padding-bottom: 50px;
 	border: 0px none;
 }

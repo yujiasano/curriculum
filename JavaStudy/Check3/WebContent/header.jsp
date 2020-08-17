@@ -10,15 +10,14 @@
 <body>
 
 <header>
-	<div class=login>login
+	<label class=login>login</label>
 
-		<div class="date">
+	<label class="date">
 		   <% Date date = new Date();
 		      SimpleDateFormat sdf = new SimpleDateFormat("yyyy/MM/dd");
 		      String formatDate = sdf.format(date);%>
 		   <%= formatDate %>
-	  </div>
-	</div>
+	 </label>
 
 
 </header>
